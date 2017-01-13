@@ -4,6 +4,7 @@ RAPid UNlimited Zwergen Escape Levels
 This game was created during a course at the [CdE][1] Winter Academy
 2016/2017. Participants and contributors were:
 
+
 - Mona Abdel-Rahman
 - Anike Heikrodt
 - Christoph-Simon Senjak
